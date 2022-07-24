@@ -10,12 +10,12 @@
 <details><summary>Read MIT License</summary>
 <p>
 <br>
-<a href="https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE"><img src="https://img.shields.io/badge/Click-Here-FF3333.svg?logo=github&logoColor=FF3333"></a>
+<a href="https://github.com/Dharani8838/Newautofile?organization=Dharani8838&organization=Dharani8838"><img src="https://img.shields.io/badge/Click-Here-FF3333.svg?logo=github&logoColor=FF3333"></a>
 </a>
 </p>
 </details>
 
-Licensed under [MIT License](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE)
+Licensed under [MIT License](https://github.com/Dharani8838/Newautofile?organization=Dharani8838&organization=Dharani8838)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ----
@@ -30,9 +30,9 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 ```
 ### Credits
 
-Thanks To [LuciferMoringstar-Robot](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot) [Orginal Code](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot)
+Thanks To [Robot](https://github.com/Dharani8838/Newautofile?organization=Dharani8838&organization=Dharani8838) [Orginal Code](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot)
 Thanks To [Muhammed](https://github.com/PR0FESS0R-99)
-Thanks To [Developers](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot#credits)
+Thanks To [Developers](https://github.com/Dharani8838/Newautofile?organization=Dharani8838&organization=Dharani8838)
 ```
 
 ----
@@ -160,7 +160,7 @@ Do Fork And Star The Repository If You Liked It.
 
 `PICS` : (random pics support | separate multiple pictures by space) Get this value from :- [Click Here](https://telegram.dog/MT_TelegraPH_Bot)
 
-`SUPORT_CHAT` : Backup Support, With out @Mo_Tech_YT
+`SUPORT_CHAT` : Backup Support, With out @DmvTamil
 
 ----
 ### 🤖 BotFather Command'S
